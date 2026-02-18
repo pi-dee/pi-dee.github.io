@@ -3,13 +3,14 @@ layout: default
 title: Home
 ---
 
-<div class="profile-container">
-  <img src="assets/images/paridhigrad.jpg" alt="Your Name" class="profile-img">
+<div style="display: flex; gap: 30px; align-items: flex-start; margin-top: 20px;">
   
-  <div class="bio-text">
-    <br>
+  <img src="assets/images/profile.jpg" alt="Your Name" 
+       style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; flex-shrink: 0; border: 4px solid #ffc8dd; box-shadow: 6px 6px 0px #b8c0ff;">
+  
+  <div style="font-size: 1.1rem; line-height: 1.7;">
     <p>
-      I am a PhD student in the Department of Electrical and Computer Engineering at the <a href="https://www.wisc.edu">University of Wisconsin-Madison</a>, where I am a member of the STACS Lab advised by Professor Joshua San Miguel.
+      I am a PhD student in the Department of Electrical and Computer Engineering at the <a href="https://www.wisc.edu">University of Wisconsin-Madison</a>, where I am a member of the <a href="https://jsm.ece.wisc.edu/"> STACS Lab </a> advised by Professor Joshua San Miguel.
     </p>
     <p>
       My research focuses on designing novel computer architectures for energy-efficient edge hardware, with a specific emphasis on stochastic computing and the development of resilient Networks-on-Chip (NoC) interconnects.
@@ -24,4 +25,5 @@ title: Home
       I am also deeply involved in the academic community, having served as the President of the IEEE Eta Kappa Nu (HKN) Theta Chapter and as an Undergraduate Student Assistant for courses in computer engineering.
     </p>
   </div>
+
 </div>

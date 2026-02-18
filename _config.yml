@@ -8,6 +8,7 @@ theme: minima
 plugins:
   - jekyll-seo-tag
 header_pages:
+  - home.md
   - publications.md
   - teaching.md
   - cv.md
