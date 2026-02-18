@@ -1,0 +1,9 @@
+title: Paridhi Gupta
+email: pgupta58@wisc.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  PhD Student in Electrical and Computer Engineering at UW-Madison.
+baseurl: "" 
+url: "" 
+theme: minima
+plugins:
+  - jekyll-seo-tag
