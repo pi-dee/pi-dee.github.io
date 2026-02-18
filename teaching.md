@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Teaching
+title: Teaching and Mentoring
 permalink: /teaching/
 ---
-
-## Teaching and Mentoring
 
 <div class="box-item">
   <strong>Mentoring an undergraduate student</strong><br>
