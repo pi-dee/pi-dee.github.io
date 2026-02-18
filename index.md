@@ -8,7 +8,6 @@ title: Home
   
   <div class="bio-text">
     <br>
-    </br>
     <p>
       I am a PhD student in the Department of Electrical and Computer Engineering at the <a href="https://www.wisc.edu">University of Wisconsin-Madison</a>, where I am a member of the STACS Lab advised by Professor Joshua San Miguel.
     </p>
