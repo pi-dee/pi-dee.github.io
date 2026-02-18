@@ -5,7 +5,7 @@ title: Home
 
 <div style="display: flex; gap: 30px; align-items: flex-start; margin-top: 20px;">
   
-  <img src="assets/images/profile.jpg" alt="Your Name" 
+  <img src="assets/images/paridhigrad.jpg" alt="Paridhi Gupta" 
        style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; flex-shrink: 0; border: 4px solid #ffc8dd; box-shadow: 6px 6px 0px #b8c0ff;">
   
   <div style="font-size: 1.1rem; line-height: 1.7;">
